@@ -1,4 +1,4 @@
-# Welcome to my Java first coding!
+# Welcome to my first Java codes!
 Hi! I am Behnam, and I am starting to code in java. I want to share everything from the beginning.
 I would be happy to add any comment on my coding in Java.
 # Basics
@@ -24,6 +24,6 @@ After opening the IntelliJ program, by opening a new project in java and some ne
 | Hello Wolrd! | Hello.java  |
 |Differant Data Types| Data_types.java|
 |Basic math operations | Basic_math.java|
-
+|Scanner method (string, double, ...)|Scanner_method.java|
 
 
