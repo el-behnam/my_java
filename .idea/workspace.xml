@@ -42,13 +42,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Hello">
+  <component name="RunManager" selected="Application.Data_types">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <configuration name="Code1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Code1" />
+      <module name="code1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data_types" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Data_types" />
       <module name="code1" />
       <method v="2" />
     </configuration>
@@ -78,22 +83,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="225" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1613987919615" />
-    <state width="1537" height="220" key="GridCell.Tab.0.bottom" timestamp="1613988317190">
+    <state width="1537" height="220" key="GridCell.Tab.0.bottom" timestamp="1613991444441">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613988317190" />
-    <state width="1537" height="220" key="GridCell.Tab.0.center" timestamp="1613988317189">
+    <state width="1537" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1613991444441" />
+    <state width="1537" height="220" key="GridCell.Tab.0.center" timestamp="1613991444441">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1613988317189" />
-    <state width="1537" height="220" key="GridCell.Tab.0.left" timestamp="1613988317189">
+    <state width="1537" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1613991444441" />
+    <state width="1537" height="220" key="GridCell.Tab.0.left" timestamp="1613991444441">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1613988317189" />
-    <state width="1537" height="220" key="GridCell.Tab.0.right" timestamp="1613988317190">
+    <state width="1537" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1613991444441" />
+    <state width="1537" height="220" key="GridCell.Tab.0.right" timestamp="1613991444441">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1537" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613988317190" />
+    <state width="1537" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1613991444441" />
     <state width="1537" height="274" key="GridCell.Tab.1.bottom" timestamp="1613988311824">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
