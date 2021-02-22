@@ -15,6 +15,6 @@ I actually downloaded Java installer from the Princtone university educatonal we
 
 
 # Frist Code
-After opening the IntelliJ program, by opening a new project in java and some next click a coding page will open. On the right menu by right-clicking on the source and adding a Java class we can actually code in Java.  File code1.java is the first code here.
+After opening the IntelliJ program, by opening a new project in java and some next click a coding page will open. On the right menu by right-clicking on the source and adding a Java class we can actually code in Java.  File Hello.java is the first code here.
 
 
